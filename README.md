@@ -1,7 +1,7 @@
 ---
 title: "Hello world"
-author:"Luka Eskinja"
-date:"30.10.2025"
+author: "Luka Eskinja"
+date: "30.10.2025"
 ---
 # hello-world
 Moj prvi github repozitorij
