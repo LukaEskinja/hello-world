@@ -8,4 +8,4 @@ Moj prvi github repozitorij
 
 ## Čemu služi ovaj repozitorij?
 Ovaj repozotorij služi kao prva stepenica u učenju korištenja Githuba.
-Ovdje prilažem link na moju prvu github pages web stranicu.
+Ovdje prilažem link na moju prvu [github pages web stranicu](https://lukaeskinja.github.io/hello-world/).
