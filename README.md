@@ -3,8 +3,9 @@ title: "Hello world"
 author: "Luka Eskinja"
 date: "30.10.2025"
 ---
-# hello-world
-Moj prvi github repozitorij
+# Moj prvi Github repozitorij Hello World
+Moj prvi github repozitorij 
 
-## Uvod u Markdown
-Pogledaj
+## Čemu služi ovaj repozitorij?
+Ovaj repozotorij služi kao prva stepenica u učenju korištenja Githuba.
+Ovdje prilažem link na moju prvu github pages web stranicu.
